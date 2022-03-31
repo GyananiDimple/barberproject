@@ -28,7 +28,9 @@
   .main_container
 .navbar-toggler {
   width: 55px; !important}
-
+  main_container .navbar-toggler{    height: 45px;
+    line-height: 0;
+}
   .contact_style {
     width: 100%;
     margin: 0 auto;
