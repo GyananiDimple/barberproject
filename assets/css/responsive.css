@@ -36,11 +36,11 @@
     float: right ;
     margin-top: 10px !important;
 }
-  .card_container
+
   .card-img-top {
      border: none;}
   
-  .card_container .card-body {
+   .card-body {
   width: 100% !important;
     padding: 6px !important;
     border: none;
