@@ -1663,3 +1663,14 @@ ul#menu li {
 .team_slider .carousel-indicators {
   display: none !important;
 }
+.navbar-toggler-icon {
+    /* display: inline-block; */
+    width: 36px;
+    height: 4px;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    border: 2px solid;
+    display: block;
+}
