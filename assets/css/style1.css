@@ -1671,7 +1671,7 @@ ul#menu li {
     content: "";
     background: no-repeat center center;
     background-size: 100% 100%;
-    border: 2px solid;
+    border: 2px solid white;
     display: block;
 }
 .navbar-toggler {
