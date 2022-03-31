@@ -1674,3 +1674,5 @@ ul#menu li {
     border: 2px solid;
     display: block;
 }
+.navbar-toggler {
+  width: 55px;}
