@@ -11,7 +11,7 @@
     text-align: center;
   }
   .navbar-brand img {
-    width: 145px;
+    width: 145px !important;
 }
   .contact_style {
     width: 100%;
