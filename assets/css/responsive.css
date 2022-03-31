@@ -13,6 +13,20 @@
   .navbar-brand img {
     width: 145px !important;
 }
+  .navbar-toggler-icon {
+    /* display: inline-block; */
+    width: 36px !important;
+    height: 4px !important;
+    vertical-align: middle !important;
+    content: "" !important;
+    background: no-repeat center center !important;
+    background-size: 100% 100% !important;
+    border: 2px solid white !important;
+    display: block;
+}
+.navbar-toggler {
+  width: 55px; !important}
+
   .contact_style {
     width: 100%;
     margin: 0 auto;
